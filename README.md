@@ -32,6 +32,9 @@ entre un class y un jar, cada uno ejecuta de forma independiente; por lo que cam
 ## Ratones Coloraos
 
 Claudio Higón
+
 Lev Syrotenko
+
 Alejandro Díaz
+
 Felip Yankovich
